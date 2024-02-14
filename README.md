@@ -3,7 +3,7 @@
 1. Docker Build checked
 2. Github Workflow
 3. Iam User In AWS
-4. AWS Deployment
+4. AWS Deployments
 
 ## Docker Setup In EC2 commands to be Executed
 
